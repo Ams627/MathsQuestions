@@ -15,16 +15,16 @@ The purpose of this repo is to collect ideas for maths questions.
 
 == Questions
 
-# Basic fractions
-# D(D+5) = 104
-# Which of the following numbers are divisible by 3, 5, 6, 9?
-# What's the area of a picture given outer perimeter of frame?
-# The sum of two numbers is X and the difference is Y. What are the numbers?
-# Groups of 5 girls and groups of 7 boys. 88 people altogether. Four more boy groups than girl groups. How many boys and how many girls?
-# Apples falling off the table
-# Felicity is 8cm taller than 6 blocks and 92cm shorter than 16 blocks. How tall is Felicity?
-# Max, David and Albert all have some money. Max has $105. David has a seventh more than Max. Albert has one quarter more than David. How much does Albert have?
-# 
+. Basic fractions
+. D(D+5) = 104
+. Which of the following numbers are divisible by 3, 5, 6, 9?
+. What's the area of a picture given outer perimeter of frame?
+. The sum of two numbers is X and the difference is Y. What are the numbers?
+. Groups of 5 girls and groups of 7 boys. 88 people altogether. Four more boy groups than girl groups. How many boys and how many girls?
+. Apples falling off the table
+. Felicity is 8cm taller than 6 blocks and 92cm shorter than 16 blocks. How tall is Felicity?
+. Max, David and Albert all have some money. Max has $105. David has a seventh more than Max. Albert has one quarter more than David. How much does Albert have?
+ 
 
 
 
